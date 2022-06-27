@@ -1,5 +1,11 @@
 # NonaMafalda
 
+Fecha Inicio: 24/04/2020
+
+
+
+Fecha Fin: 21/07/2020
+
 Manual de Usuario: [Manual-de-Usuario(c).pdf](https://github.com/bartoligerman497/NonaMafalda/files/8912453/Manual-de-Usuario.c.pdf)
 
 
