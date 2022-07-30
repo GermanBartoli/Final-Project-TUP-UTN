@@ -10,6 +10,8 @@
 
 - [Manual de Usuario](https://github.com/bartoligerman497/Proyecto-Final-TUP-UTN/blob/main/Manual-de-Usuario(c).pdf) - Manual-de-Usuario(c).pdf
 
+[![Manual de Usuario Imagen](https://user-images.githubusercontent.com/53313625/181866795-3b44019a-9b86-4314-97ec-fc5f44926a7b.png)](https://github.com/bartoligerman497/Proyecto-Final-TUP-UTN/blob/main/Manual-de-Usuario(c).pdf))
+
 ## Fechas
 
 Fecha Inicio: 24/04/2020
