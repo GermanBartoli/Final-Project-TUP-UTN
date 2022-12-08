@@ -8,9 +8,17 @@
 
 ## Manual de Usuario
 
+- [Manual de Usuario](https://drive.google.com/file/d/1dSotDc36U6yqr31H7dgWhh0R8rMgIPoT/view?usp=share_link) - Manual-de-Usuario(c).pdf
+
+[![Manual de Usuario Imagen](https://user-images.githubusercontent.com/53313625/181866795-3b44019a-9b86-4314-97ec-fc5f44926a7b.png)](https://drive.google.com/file/d/1dSotDc36U6yqr31H7dgWhh0R8rMgIPoT/view?usp=share_link)
+
+<!--
+
 - [Manual de Usuario](https://github.com/bartoligerman497/Proyecto-Final-TUP-UTN/blob/main/Manual-de-Usuario(c).pdf) - Manual-de-Usuario(c).pdf
 
 [![Manual de Usuario Imagen](https://user-images.githubusercontent.com/53313625/181866795-3b44019a-9b86-4314-97ec-fc5f44926a7b.png)](https://github.com/bartoligerman497/Proyecto-Final-TUP-UTN/blob/main/Manual-de-Usuario(c).pdf)
+
+-->
 
 ## Duración del Proyecto
 
