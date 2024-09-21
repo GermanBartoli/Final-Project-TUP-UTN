@@ -2,9 +2,24 @@
 
 ## Indice
 
+- [Descripción](#descripción)
 - [Manual de Usuario](#manual-de-usuario)
 - [Duración del Proyecto](#duración-del-proyecto)
 - [Imagenes](#imagenes)
+
+## Descripción 
+El Sistema tiene como objetivo brindar información al empleado para gestionar los
+productos con su stock, los clientes, usuarios, empleados y sus horarios. También es posible
+realizar consultas para saber que productos vencieron o están por vencer, los productos con
+poco stock o sin, la cantidad vendida y total recaudado por producto por día y el total
+recaudado por día.
+
+El programa está escrito en lenguaje Java manipulando en el entorno Apache
+Netbeans 11.3 acompañado de la herramienta JDK 13, utilizando como biblioteca principal
+Swing y utilizando como patrón de arquitectura de software el MVC. La conexión con la base
+de datos se logra a través del driver mssql-jdbc-8.2.0.jre13 en donde la misma está
+programada en lenguaje Transact - SQL utilizando como motor Microsoft SQL Server 2019 y
+manipulandola con Microsoft SQL Server Management Studio 2018.
 
 ## Manual de Usuario
 
