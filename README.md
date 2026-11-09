@@ -1,4 +1,24 @@
-# Proyecto Final TUP
+# Nona Mafalda · Gestión comercial
+
+**Proyecto final de la Tecnicatura Universitaria en Programación: gestión de productos, stock, clientes, empleados, ventas y consultas con Java Swing y SQL Server.**
+
+[![Repositorio](https://img.shields.io/badge/GitHub-GermanBartoli-181717?logo=github)](https://github.com/GermanBartoli/Final-Project-TUP-UTN)
+
+[Empezar](#primeros-pasos) · [Mapa del repositorio](#mapa-del-repositorio) · [Autoría](#autoría-de-esta-documentación)
+
+![Guía visual: Nona Mafalda · Gestión comercial](docs/readme/guia.svg)
+
+*Esquema de orientación; no representa una captura de la aplicación.*
+
+## Primeros pasos
+
+1. Leé el manual local `Manual-de-Usuario(c).pdf` para conocer las pantallas y el circuito de trabajo.
+2. Abrí `NonaMafalda/` como proyecto de NetBeans. El entorno documentado originalmente es NetBeans 11.3, JDK 13 y SQL Server 2019.
+3. Prepará una base local de práctica y revisá la conexión JDBC antes de iniciar. Recorré productos y clientes antes de registrar una venta.
+
+## Entorno de aprendizaje
+
+Este repositorio conserva ejercicios y versiones de su etapa de estudio. Revisá los archivos de proyecto para preparar el SDK, runtime o servidor correspondiente; esta actualización del README no migra dependencias ni acredita una ejecución reciente de todos los ejemplos.
 
 ## Indice
 
@@ -7,7 +27,7 @@
 - [Duración del Proyecto](#duración-del-proyecto)
 - [Imagenes](#imagenes)
 
-## Descripción 
+## Descripción
 El Sistema tiene como objetivo brindar información al empleado para gestionar los
 productos con su stock, los clientes, usuarios, empleados y sus horarios. También es posible
 realizar consultas para saber que productos vencieron o están por vencer, los productos con
@@ -78,3 +98,13 @@ Fecha Fin: 21/07/2020
 ![Base_Datos_PPS](https://user-images.githubusercontent.com/53313625/181867243-bd3e6829-3fe2-4cb2-8f24-a1d327e590ef.png)
 
 > MIT License - Copyright (c) 2022 German Bartoli
+
+## Mapa del repositorio
+
+- [LICENSE](<LICENSE>)
+
+## Autoría de esta documentación
+
+Repositorio mantenido por [Germán Bartoli](https://github.com/GermanBartoli). Guía revisada y actualizada con **Codex**, coautor de esta actualización documental. Los autores, colaboradores, licencias y recursos de terceros conservan sus créditos originales.
+
+Los commits de esta revisión incluyen `Co-authored-by: Codex <noreply@openai.com>`; esta atribución no modifica la autoría del historial anterior.
